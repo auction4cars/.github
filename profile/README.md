@@ -13,3 +13,4 @@
 | ![](/assets/img/git-repository-line.svg) [Update Auction](https://github.com/auction4cars/a4c-lambda-update-auction)                               | The Update Auction Lambda Function                |
 | ![](/assets/img/git-repository-line.svg) [HPI Details Queue Processor](https://github.com/auction4cars/a4c-lambda-hpi-details-queue-processor)     | The HPI Details Queue Processer Lambda Function   |
 | ![](/assets/img/git-repository-line.svg) [User Activity Queue Processor](https://github.com/auction4cars/a4c-lambda-user-activity-queue-processor) | The User Activity Queue Processer Lambda Function |
+| ![](/assets/img/git-repository-line.svg) [Auth Token Checker](https://github.com/auction4cars/a4c-lambda-auth-token-checker)                       | The Auth Token Checker Lambda Function            |

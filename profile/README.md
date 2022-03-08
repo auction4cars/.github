@@ -7,7 +7,6 @@
 | ![](/assets/img/git-repository-line.svg) [AWS Infrastructure](https://github.com/auction4cars/a4c-aws-infrastructure)                              | The AWS Infrastructure                            |
 | ![](/assets/img/git-repository-line.svg) [Mobile App](https://github.com/auction4cars/a4c-mobile)                                                  | The Mobile Application                            |
 | ![](/assets/img/git-repository-line.svg) [Login](https://github.com/auction4cars/a4c-lambda-login)                                                 | The Login Lambda Function                         |
-| ![](/assets/img/git-repository-line.svg) [Auth Token Checker](https://github.com/auction4cars/a4c-lambda-auth-token-checker)                       | The Auth Token Checker Lambda Function            |
 | ![](/assets/img/git-repository-line.svg) [Auth Token Refresh](https://github.com/auction4cars/a4c-lambda-auth-token-refresh)                       | The Auth Token Refresh Lambda Function            |
 | ![](/assets/img/git-repository-line.svg) [HPI Check](https://github.com/auction4cars/a4c-lambda-hpi-check)                                         | The HPI Check Lambda Function                     |
 | ![](/assets/img/git-repository-line.svg) [HPI Valuation](https://github.com/auction4cars/a4c-lambda-hpi-valuation)                                 | The HPI Valuation Lambda Function                 |

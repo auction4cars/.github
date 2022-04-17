@@ -16,4 +16,5 @@
 | ![](/assets/img/git-repository-line.svg) [HPI Details Queue Processor](https://github.com/auction4cars/a4c-lambda-hpi-details-queue-processor)         | The HPI Details Queue Processer Lambda Function     |
 | ![](/assets/img/git-repository-line.svg) [User Activity Queue Processor](https://github.com/auction4cars/a4c-lambda-user-activity-queue-processor)     | The User Activity Queue Processer Lambda Function   |
 | ![](/assets/img/git-repository-line.svg) [Client App Data Queue Processor](https://github.com/auction4cars/a4c-lambda-client-app-data-queue-processor) | The Client App Data Queue Processer Lambda Function |
+| ![](/assets/img/git-repository-line.svg) [Get Auction Data](https://github.com/auction4cars/a4c-lambda-get-auction-data)                               | The Get Auction Data Lambda Function                |
 | ![](/assets/img/git-repository-line.svg) [Lambda Layer](https://github.com/auction4cars/a4c-lambda-layer)                                              | The Lambda Layer shared core code                   |

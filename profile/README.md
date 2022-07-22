@@ -10,9 +10,9 @@
 | ![](/assets/img/git-repository-line.svg) [HPI Check](https://github.com/auction4cars/a4c-lambda-hpi-check)                                             | The HPI Check Lambda Function                       |
 | ![](/assets/img/git-repository-line.svg) [HPI Valuation](https://github.com/auction4cars/a4c-lambda-hpi-valuation)                                     | The HPI Valuation Lambda Function                   |
 | ![](/assets/img/git-repository-line.svg) [Update Auction](https://github.com/auction4cars/a4c-lambda-update-auction)                                   | The Update Auction Lambda Function                  |
-| ![](/assets/img/git-repository-line.svg) [HPI Details Queue Processor](https://github.com/auction4cars/a4c-lambda-hpi-details-queue-processor)         | The HPI Details Queue Processer Lambda Function     |
-| ![](/assets/img/git-repository-line.svg) [User Activity Queue Processor](https://github.com/auction4cars/a4c-lambda-user-activity-queue-processor)     | The User Activity Queue Processer Lambda Function   |
-| ![](/assets/img/git-repository-line.svg) [Client App Data Queue Processor](https://github.com/auction4cars/a4c-lambda-client-app-data-queue-processor) | The Client App Data Queue Processer Lambda Function |
+| ![](/assets/img/git-repository-line.svg) [HPI Details Queue Processor](https://github.com/auction4cars/a4c-lambda-hpi-details-queue-processor)         | The HPI Details Queue Processor Lambda Function     |
+| ![](/assets/img/git-repository-line.svg) [User Activity Queue Processor](https://github.com/auction4cars/a4c-lambda-user-activity-queue-processor)     | The User Activity Queue Processor Lambda Function   |
+| ![](/assets/img/git-repository-line.svg) [Client App Data Queue Processor](https://github.com/auction4cars/a4c-lambda-client-app-data-queue-processor) | The Client App Data Queue Processor Lambda Function |
 | ![](/assets/img/git-repository-line.svg) [Get Auction Data](https://github.com/auction4cars/a4c-lambda-get-auction-data)                               | The Get Auction Data Lambda Function                |
 | ![](/assets/img/git-repository-line.svg) [Get Auction By Id](https://github.com/auction4cars/a4c-lambda-get-auction-by-id)                             | The Get Auction By Id Lambda Function               |
 | ![](/assets/img/git-repository-line.svg) [Get New Auctions](https://github.com/auction4cars/a4c-lambda-get-new-auctions)                               | The Get New Auctions Lambda Function                |
